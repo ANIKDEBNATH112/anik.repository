@@ -39,4 +39,23 @@ int main|()
   printf("the sum of two number=%d",s);
   return 0;
   }
-  
+
+if/else statment program
+#include<stdio.h>
+int main()
+{
+  int a,b;
+  printf("\nenter the first number");
+  scanf("%d",&a);
+  printf("\nenter the second number);
+  scanf("%d",&b);
+  if(a>b);
+  {
+    printf("\nthe greater number is a=%d",a");
+  }
+  else
+  {
+    printf("\nthe greater number is b=%d",b);
+    }
+    return 0;
+    }
