@@ -25,3 +25,18 @@ int main()
   printf("Sum=%d",s);
   return 0
 }
+
+#include<stdio.h>
+int main|()
+{
+  int a,b,s;
+  s=0;
+  printf("enter the first number");
+  scanf("%d",&a);
+  printf("enter second number);
+  scanf("%d",&b);
+  s=a+b;
+  printf("the sum of two number=%d",s);
+  return 0;
+  }
+  
