@@ -55,7 +55,31 @@ int main()
   }
   else
   {
+
+  #include<stdio.h>
+int main()
+{
+  int a,b;
+  printf("\nenter the first number");
+  scanf("%d",&a);
+  printf("\nenter the second number);
+  scanf("%d",&b);
+  if(a<b);
+  {
+    printf("\nthe greater number is a=%d",a");
+  }
+  else
+  {
     printf("\nthe greater number is b=%d",b);
     }
     return 0;
     }
+
+ type of statments 
+  auto,else,long,switch,break,,enum,register,typedef,case,extern,return,union,char,flost,shoot,unsigred,const,for,singed,void,continue,goto,sizeof,volatile,defult,if,static,while,do,int,
+  struct-packed,doble.
+  type storage
+  char | byte
+  int 2 or 4 bytes.
+  long 4 bytes.
+  
